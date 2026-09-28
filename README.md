@@ -79,6 +79,9 @@ Line & Area Trend Charts: Tracking month-over-month accident frequency and seaso
 
 Donut & Bar Charts: Profiling casualty splits by road surface, lighting conditions, and vehicle classification.
 
+### 📊 Dashboard  
+
+![Road Accident Analysis Dashboard](images/Road-Accident-Analysis-Dashboard.png)
 
 
 ### 💡 Strategic Recommendations for Stakeholders
@@ -111,7 +114,7 @@ Donut & Bar Charts: Profiling casualty splits by road surface, lighting conditio
 
 Clone the Repository:
 
-git clone https://github.com/your-username/road-accident-data-analysis.git
+git clone https://github.com/Abhi-2806/Road-Accident-Analysis-Excel.git
 
 
 Open the Workbook:
